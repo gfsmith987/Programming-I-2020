@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Gavin's 2020 Programming I Portfolio
 
 You can use the [editor on GitHub](https://github.com/gfsmith987/Programming-I-2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
