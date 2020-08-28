@@ -1,5 +1,7 @@
 ## Welcome to Gavin's 2020 Programming I Portfolio
 
+![typing test](https://github.com/gfsmith987/Programming-I-2020/blob/gh-pages/images/Typing%20Test%20Results.png?raw=true)
+
 You can use the [editor on GitHub](https://github.com/gfsmith987/Programming-I-2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
